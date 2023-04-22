@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "64438c22e4ce10f8507a7067"
+  },
+  "Name": "Amar",
+  "email": "amargupta9470@gmail.com",
+  "age": 22
+},{
+  "_id": {
+    "$oid": "64438ca3e4ce10f8507a7068"
+  },
+  "Name": "Ujjwal",
+  "email": "ujjwal@gmail.com",
+  "age": 23
+},{
+  "_id": {
+    "$oid": "64438ce6e4ce10f8507a7069"
+  },
+  "Name": "Shaban",
+  "email": "shaban@gmail.com",
+  "age": 24
+},{
+  "_id": {
+    "$oid": "64438d09e4ce10f8507a706a"
+  },
+  "Name": "Biswojit",
+  "email": "biswojit@gmail.com",
+  "age": 23
+},{
+  "_id": {
+    "$oid": "64438d41e4ce10f8507a706b"
+  },
+  "Name": "Samay",
+  "email": "samay@gmail.com",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "64438d69e4ce10f8507a706c"
+  },
+  "Name": "Anish",
+  "email": "anish@gmail.com",
+  "age": 22
+},{
+  "_id": {
+    "$oid": "64438d9ae4ce10f8507a706d"
+  },
+  "Name": "Arvind",
+  "email": "arvind@gmail.com",
+  "age": 25
+},{
+  "_id": {
+    "$oid": "64438dc4e4ce10f8507a706e"
+  },
+  "Name": "Abhishek",
+  "email": "abhishek@gmail.com",
+  "age": 26
+},{
+  "_id": {
+    "$oid": "64438defe4ce10f8507a706f"
+  },
+  "Name": "Samyak",
+  "email": "samyak@gmail.com",
+  "age": 27
+},{
+  "_id": {
+    "$oid": "64438e26e4ce10f8507a7070"
+  },
+  "Name": "Chandrasekhar",
+  "email": "chandrasekhar@gmail.com",
+  "age": 28
+},{
+  "_id": {
+    "$oid": "64438e5ee4ce10f8507a7071"
+  },
+  "Name": "Nishant",
+  "email": "nishant@gmail.com",
+  "age": 29
+}]
